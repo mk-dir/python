@@ -1,24 +1,15 @@
-print ( "Hello World" )
-my_name="Munoru"
-print(my_name)
-myName="Adam and Eve"
-print(myName)
-myName="Save"
-print(myName)
-x=0
-y=4
-z=x+y
-print(z)
+myName = "programming"
+print(myName[-8])
+print(myName[-7])
+print(myName[-6])
+print(myName[-5])
+print(myName[-4])
+"""
+print(myName[4])
+print(myName[1:5])
+print(type(myName))"""
 
-bootcamp="python"
-first=bootcamp[1:5]
+fName="Mwai "
+sName="Kibaki"
 
-sentence ="I, enjoy programming. I am learning python"
-first=sentence[2]
-
-print(first)
-
-first=sentence[1]
-
-print(len(sentence))
-for(i=0;i<=42;i++){ print(sentence[i])}
+print(fName+sName)
